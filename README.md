@@ -1,6 +1,6 @@
 <html>
   <h1 align="center">Deep Face Detection</h1>
-  <p align="center"><img src="https://github.com/NamHai1/Deep_Face_Detection/blob/main/crowd.png" width="760" height="440"></p>
+  <p align="center"><img src="https://github.com/NamHai1/Deep_Face_Detection/blob/main/outd2.png" width="1000" height="250"></p>
   <h2>1. Data</h2>
   <p>File Data: <a href="https://drive.google.com/drive/folders/1ycg3Qlb9IVgNdWX29EPrHBCFY9do2y4P?usp=share_link">Data</a></p>
   <h2>2. Model</h2>
